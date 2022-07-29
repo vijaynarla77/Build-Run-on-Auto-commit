@@ -1,5 +1,7 @@
+import org.testng.annotations.Test;
 
 public class S {
+	@Test
 	public void sample()
 	{
 		System.out.println("vijay");
