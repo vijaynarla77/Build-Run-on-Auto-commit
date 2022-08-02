@@ -1,6 +1,7 @@
+import org.testng.annotations.Test;
 
 public class DEMO {
-	
+	@Test
 	public void Sample()
 	{
 		System.out.println("vijay Success");
