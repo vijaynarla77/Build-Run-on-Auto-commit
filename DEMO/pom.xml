@@ -77,6 +77,7 @@
 						<suiteXmlFile>testNG.xml</suiteXmlFile> </suiteXmlFiles> -->
 					<suiteXmlFiles>
 						<suiteXmlFile>TEST_SUITE\testng.xml</suiteXmlFile>
+						<suiteXmlFile>TEST_SUITE\Basic.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
