@@ -77,7 +77,6 @@
 						<suiteXmlFile>testNG.xml</suiteXmlFile> </suiteXmlFiles> -->
 					<suiteXmlFiles>
 						<suiteXmlFile>TEST_SUITE\testng.xml</suiteXmlFile>
-						<suiteXmlFile>TEST_SUITE\Basic.xml</suiteXmlFile>
 						<suiteXmlFile>TEST_SUITE\Logintestng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
