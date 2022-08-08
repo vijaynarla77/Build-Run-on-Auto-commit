@@ -16,5 +16,6 @@ public class DEMO {
 		driver.get("https://www.youtube.com/");
 		String title = driver.getTitle();
 		System.out.println(title);
+		
 	}
 }
