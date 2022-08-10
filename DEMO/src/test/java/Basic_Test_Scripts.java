@@ -29,6 +29,7 @@ public class Basic_Test_Scripts extends BaseClass {
 		Login l1 = new Login();
 		l1.LoginSteps();
 		System.out.println("1234");
+		System.out.println("12345");
 	}
 
 }
