@@ -28,6 +28,7 @@ public class Basic_Test_Scripts extends BaseClass {
 		getDriver().getTitle();
 		Login l1 = new Login();
 		l1.LoginSteps();
+		System.out.println("1234");
 	}
 
 }
